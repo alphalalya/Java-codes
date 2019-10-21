@@ -1,5 +1,11 @@
 package edu.cscc;
-
+/*
+	Chapter :
+	Programmer: Alpha Bah
+	Date:       03/18/2018
+	Filename:	car.java
+	Purpose:	
+*/
 
 public class Car
 {
