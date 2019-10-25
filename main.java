@@ -5,7 +5,7 @@ public class main {
     static void welcome()
     {
 
-        System.out.println ("welcome, Alpha");
+        System.out.println ("welcome, Rama");
     }
      static int add(int number1, int number2)
      {
